@@ -16,6 +16,10 @@ public class InsertionIntoHeap {
                 int temp = arr.get(x);
                 arr.set(x, arr.get(parentIndex));
                 arr.set(parentIndex , temp);
+
+                x = parentIndex;
+                parentIndex = (x - 1) / 2;
+
             }
         }
 
