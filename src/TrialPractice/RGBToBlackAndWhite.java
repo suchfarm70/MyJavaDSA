@@ -7,8 +7,8 @@ import java.io.IOException;
 public class RGBToBlackAndWhite {
     public static void main(String[] args) {
         // Input and output image paths
-        String inputImagePath = "SS.jpg";   // Replace with your image file
-        String outputImagePath = "output_bw.jpg";
+        String inputImagePath = "C:\\Users\\91845\\VSPROJECTS\\myjava\\src\\TrialPractice\\ss.jpg";   // Replace with your image file
+        String outputImagePath = "C:\\Users\\91845\\VSPROJECTS\\myjava\\src\\TrialPractice\\output_bw.jpg";
 
         try {
             // Read the original image

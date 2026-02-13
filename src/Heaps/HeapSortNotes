@@ -1,0 +1,8 @@
+for HeapSorting
+for Ascending Order sorting of a Heap we use MaxHeap
+because in MaxHeap we take the largest element at the Root and swap it with the last element at the end
+
+and for Descending Order Sorting of a Heap we use MinHeap
+because in Minheap we take the smallest element at the Root and swap it with the last element at the end
+
+for both the cases we need to call the Heapify Function for the Non Root Nodes

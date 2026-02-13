@@ -19,7 +19,6 @@ public class InsertionIntoHeap {
 
                 x = parentIndex;
                 parentIndex = (x - 1) / 2;
-
             }
         }
 

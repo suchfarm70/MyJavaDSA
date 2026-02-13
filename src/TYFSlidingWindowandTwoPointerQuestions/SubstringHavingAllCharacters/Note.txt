@@ -1,0 +1,2 @@
+This question is somewhat similar to the Fruits in Basket and K Distinct Character Questions.
+I thought it very similar but it is not

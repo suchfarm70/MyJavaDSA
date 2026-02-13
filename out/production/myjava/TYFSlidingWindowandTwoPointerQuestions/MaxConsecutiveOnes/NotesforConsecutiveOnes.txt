@@ -1,0 +1,15 @@
+QUESTION
+You have been given an array now your job is to find
+longest number of consecutive number of 1s
+here is the twist you at max flip K 0s to form the 
+longest chain of 1s
+
+
+
+
+
+In this package you will see 
+int total 3 solutions
+First one the worst time complexity which is near about O(N^2)
+Second one with a time complexity of O(N + N) which is O(2N)
+The third and best time complexity of O(N)
